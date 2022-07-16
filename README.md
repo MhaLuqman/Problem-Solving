@@ -1,2 +1,2 @@
 # Problem-Solving
-Leet Code Solutions and TestDome in Python
+Leet Code and TestDome Solutions in Python
